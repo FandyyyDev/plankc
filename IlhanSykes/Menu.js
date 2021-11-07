@@ -85,28 +85,6 @@ const menu = (hansykes, SykesWM, hanselamat, ilhansykesSELF, jam, thisDay, day, 
 │❏️ *${hansykes}tebakgambar*
 │❏️ *${hansykes}family100*
 
-*◪ 𝙉𝙎𝙁𝙒 𝙈𝙀𝙉𝙐*
-│❏️ *${hansykes}waifu*
-│❏️ *${hansykes}loli*
-│❏️ *${hansykes}yuri*
-│❏️ *${hansykes}anal*
-│❏️ *${hansykes}lesbian*
-│❏️ *${hansykes}eroneko*
-│❏️ *${hansykes}bj*
-│❏️ *${hansykes}kitsune*
-│❏️ *${hansykes}pussy*
-│❏️ *${hansykes}baka*
-│❏️ *${hansykes}slap*
-│❏️ *${hansykes}poke*
-│❏️ *${hansykes}neko*
-│❏️ *${hansykes}neko2*
-│❏️ *${hansykes}keta*
-│❏️ *${hansykes}awoo*
-│❏️ *${hansykes}blowjob*
-│❏️ *${hansykes}hentai*
-│❏️ *${hansykes}megumin*
-│❏️ *${hansykes}trapnime*
-
 *◪ 𝘽𝙐𝙂 𝙈𝙀𝙉𝙐*
 │❏️ *${hansykes}allbug*
 │❏️ *${hansykes}troli*
