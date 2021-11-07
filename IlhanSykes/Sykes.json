@@ -1,0 +1,11 @@
+{
+    "wait": "*[❗] SABAR LAGI DI PROSES, ORANG SABAR DISAYANG JANDA*",
+    "error": {
+        "Iv": "*[❗] LINK NYA SALAH*",
+        "api": "*[❗] TERJADI KESALAHAN*"
+    },
+    "OnlyGrup": "*[❗] ONLY GROUP*",
+    "owner": "*[❗] ONLY OWNER*",
+    "GrupAdmin": "*[❗] ONLY ADMIN*",
+    "BotAdmin": "*[❗] BOT BUKAN ADMIN*"
+}
